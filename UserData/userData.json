@@ -1,0 +1,76 @@
+{
+    "data":[
+        {
+            "name":"Aditya Raj",
+            "role":"Founder & Chairman",
+            "mobileNo":"8825342438",
+            "profilePic":"chairman.jpg"
+        },
+        {
+            "name":"Rakesh Kumar Jha",
+            "role":"Editor in Chief, Guider & Mentor",
+            "mobileNo":"9643516232",
+            "profilePic":"rakeshsir.jpg"
+        },
+        {
+            "name":"Mantu Kumar",
+            "role":"Coordinator",
+            "mobileNo":"7480081438",
+            "profilePic":"mantu.jpg"
+        },
+        {
+            "name":"Raushan Singh",
+            "role":"Tech & Social Media",
+            "mobileNo":"8809569611",
+            "profilePic":"raushansingh.jpg"
+        },
+        {
+            "name":"Anand Singh",
+            "role":"Current News & Public Welfare",
+            "mobileNo":"9794906772",
+            "profilePic":"anand.jpg"
+        },
+        {
+            "name":"Sajjan Kumar",
+            "role":"Daily Fact & Day Special",
+            "mobileNo":"7870771860",
+            "profilePic":"sajjankumar.jpg"
+        },
+        {
+            "name":"Randhesh Kumar",
+            "role":"Educational News",
+            "mobileNo":"6203515959",
+            "profilePic":"randhesh.jpeg"
+        },
+        {
+            "name":"Jai Krishna",
+            "role":"Recruitment & Vacancy",
+            "mobileNo":"6200893879",
+            "profilePic":"jaikrishna.jpg"
+        },
+        {
+            "name":"Amit Kumar",
+            "role":"Latest News",
+            "mobileNo":"6200716241",
+            "profilePic":"aksanju.jpg"
+        },
+        {
+            "name":"Aman Kumar",
+            "role":"Games and Sports",
+            "mobileNo":"7250881212",
+            "profilePic":"amanKumar.jpg"
+        },
+        {
+            "name":"Pramod Kumar",
+            "role":"Science and Research",
+            "mobileNo":"7479586205",
+            "profilePic":"pramod.jpg"
+        },
+        {
+            "name":"Ritik Kumar",
+            "role":"Business and Stocks",
+            "mobileNo":"7761076026",
+            "profilePic":"ritik.jpg"
+        }
+    ]
+}
